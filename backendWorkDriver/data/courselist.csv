@@ -1,0 +1,49 @@
+﻿Course Code,Course Title,Credits,Course Type,Parallel Course and Credits
+CSE101,Introduction to Computers I,3,OD,
+CSE102,Introduction to Computers II,3,OD,
+CSE103,Structured Programming,4.5,Core,ICE103 (4)
+CSE106,Discrete Mathematics,3,Core,ICE204 (3)
+CSE110,Object Oriented Programming,4.5,Core,ICE107 (4)
+CSE200,Computer-Aided Engineering Drawing,1,Core,
+CSE207,Data Structures,4,Core,ICE207 (4)
+CSE209,Electrical Circuits,4,Core,ICE109 (4)
+CSE227,Numerical Methods and Computer Programming,4.5,OD,
+CSE246,Algorithms,4.5,Core,ICE245 (4)
+CSE251,Electronic Circuits,4,Core,ICE213 (4)
+CSE302,Database Systems,4.5,Core,ICE305 (4)
+CSE303,Statistics for Data Science,4,MC,
+CSE325,Operating Systems,4,Core,ICE275 (3)
+CSE345,Digital Logic Design,4,Core,ICE217 (4)
+CSE347,Information System Analysis and Design,4,Core,
+CSE350,Data Communications,4,MC,
+CSE360,Computer Architecture,3,Core,ICE469 (3)
+CSE366,Artificial Intelligence,4,MC,"ICE476 (3), ICE475 (3), ETE475 (3)"
+CSE405,Computer Networks,4,Core,ICE302 (4)
+CSE407,Green Computing,3,Core,
+CSE412,Software Engineering,4,MC,
+CSE420,Computer Graphics,4,ME,ICE474 (3)
+CSE430,Software Testing and Quality Assurance,4,MC,
+CSE432,Digital Signal Processing,4,MC,ICE322 (4)
+CSE438,Digital Image Processing,4,ME,
+CSE442,Microprocessor and Microcontroller,4,MC,
+CSE453,Wireless Networks,3,ME,"ICE456 (4), ETE456 (4)"
+CSE464,Advanced Database Systems,4,ME,
+CSE475,Machine Learning,4,ME,ICE478 (3)
+CSE477,Data Mining,4,ME,
+CSE479,Web Programming,4,ME,
+CSE487,"Cyber Security, Ethics and Law",3,Core,"ICE453 (3), ETE450 (3)"
+CSE488,Big Data Analytics,4,ME,
+CSE489,Mobile Programming,4,ME,
+CSE495,IT Project Management and Entrepreneurship,3,Core,ICE473 (3)
+ICE216,Signals and Systems,3,,ICE209
+ICE310,Electromagnetic Theory,3,,ETE310
+ICE313,Microprocessors and Interfacing,4,,"ICE316, ETE313, ETE316"
+ICE314,Digital Communications,4,,
+ICE370,Applied Numerial Methods,3,,"ETE370, ICE470 (4), ETE470 (4)"
+ICE401,VLSI Circuit Design,4,,ETE401
+ICE448,Information Theory and Coding,3,,"ICE350, ETE448, ETE350"
+ICE439,Engineering Ethics,3,,ETE439
+ICE441,Wireless and Mobile Communications,3,,ETE441
+ICE444,Telecommunication Networks and Switching,3,,ETE444
+ETE225,Introduction to Control Systems,4,,ETE420
+ETE319,Electronic Properties of Materials,3,,ETE219
